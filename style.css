@@ -1,0 +1,37 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+
+}
+.name-highlight {color: brown;}
+
+.halfwidth {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfwidth img{
+    width: 80%;
+}
+.top-banner{
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+          }
+section{
+        
+            }
+.link-button {
+    background-color:rgb(85, 85, 197);
+    text-decoration: none;
+    color: seashell;
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-weight: 900px;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
